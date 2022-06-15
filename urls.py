@@ -17,3 +17,4 @@ urlpatterns = [
     # -----------------
     path('crud/',include('CRUD.urls'))
 ]
+#
